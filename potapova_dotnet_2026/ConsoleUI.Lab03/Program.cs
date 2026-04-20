@@ -10,7 +10,6 @@ class Program
 
         string newText = text.Capitalize();
         Console.WriteLine(newText);
-        
 
         // task 3
         // create doctors
