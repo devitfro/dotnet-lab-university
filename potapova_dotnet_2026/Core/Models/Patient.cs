@@ -1,6 +1,8 @@
+using Core.Interfaces;
+
 namespace Core.Models;
 
-public class Patient
+public class Patient : MedicalEntity, ICompute
 {
     private string _fullName;
     private DateTime _birthDate;
@@ -51,5 +53,19 @@ public class Patient
     public override string ToString()
     {
         return $"Patient: {FullName}\nBirthDate: {BirthDate}\nPhone: {Phone}\nWeight: {Weight}\nInsurance: {(HasInsurance ? "Yes" : "No")}";
+    }
+
+    public override string GetInfo()
+    {
+        return $"Patient name: {FullName}";
+    }
+
+    public override decimal GetCost()
+    {
+        return HasInsurance ? 0 : 100;
+    }
+    public decimal Compute()
+    {
+        return HasInsurance ? 0 : 100;
     }
 }

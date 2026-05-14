@@ -1,6 +1,6 @@
 namespace Core.Models;
-
-public class Doctor
+using Core.Interfaces;
+public class Doctor : MedicalEntity, ICompute
 {
     private string _name;
     private string _specialization;
@@ -51,5 +51,20 @@ public class Doctor
     public override string ToString()
     {
         return $"Doctor: {Name}\nSpecialization: {Specialization}\nExperience: {ExperienceYears} years\nRating: {Rating}\nAvailable: {(IsAvailable ? "Yes" : "No")}";
+    }
+
+    public override string GetInfo()
+    {
+        return $"Doctor: {Name}";
+    }
+
+    public override decimal GetCost()
+    {
+        return (decimal)(Rating * 100);
+    }
+    
+    public decimal Compute()
+    {
+        return (decimal)(Rating * 100);
     }
 }

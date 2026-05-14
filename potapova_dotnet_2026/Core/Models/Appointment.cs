@@ -1,6 +1,6 @@
 namespace Core.Models;
-
-public class Appointment
+using Core.Interfaces;
+public class Appointment : MedicalEntity, ICompute
 {
     private int _doctorId;
     private int _patientId;
@@ -51,5 +51,19 @@ public class Appointment
     public override string ToString()
     {
         return $"DoctorId: {DoctorId}\nPatientId: {PatientId}\nDate: {AppointmentDate}\nPrice: {Price}\nCompleted: {(IsCompleted ? "Yes" : "No")}";
+    }
+    
+    public override string GetInfo()
+    {
+        return $"Appointment on {AppointmentDate}";
+    }
+    
+    public override decimal GetCost()
+    {
+        return (decimal)Price;
+    }
+    public decimal Compute()
+    {
+        return (decimal)Price;
     }
 }

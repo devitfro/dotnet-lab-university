@@ -8,7 +8,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI.Lab02", "ConsoleU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI.Lab03", "ConsoleUI.Lab03\ConsoleUI.Lab03.csproj", "{C251DA43-53EC-455F-8BF7-E32886C39D27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI.Lab5", "ConsoleUI.Lab5\ConsoleUI.Lab5.csproj", "{22D2913B-8922-4794-9ACA-C659F7C7818C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI.Lab05", "ConsoleUI.Lab05\ConsoleUI.Lab05.csproj", "{22D2913B-8922-4794-9ACA-C659F7C7818C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI.Lab04", "ConsoleUI.Lab04\ConsoleUI.Lab04.csproj", "{9A0D0BF2-5BB3-4F84-877E-A5D6D5AF8607}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,5 +38,9 @@ Global
 		{22D2913B-8922-4794-9ACA-C659F7C7818C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22D2913B-8922-4794-9ACA-C659F7C7818C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22D2913B-8922-4794-9ACA-C659F7C7818C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0D0BF2-5BB3-4F84-877E-A5D6D5AF8607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0D0BF2-5BB3-4F84-877E-A5D6D5AF8607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0D0BF2-5BB3-4F84-877E-A5D6D5AF8607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0D0BF2-5BB3-4F84-877E-A5D6D5AF8607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
