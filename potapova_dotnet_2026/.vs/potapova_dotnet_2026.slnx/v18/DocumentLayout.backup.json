@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\MedicalEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Models\\MedicalEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\DoctorsCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Models\\DoctorsCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Models\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Models\\Appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Models\\Price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Models\\Patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Models\\Doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MedicalEntity.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\MedicalEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\MedicalEntity.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\MedicalEntity.cs",
+              "RelativeToolTip": "Core\\Models\\MedicalEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:30:09.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Configuration.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Configuration.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Configuration.cs",
+              "RelativeToolTip": "Core\\Models\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:30:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorsCollection.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\DoctorsCollection.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\DoctorsCollection.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\DoctorsCollection.cs",
+              "RelativeToolTip": "Core\\Models\\DoctorsCollection.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:30:00.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Appointment.cs",
+              "RelativeToolTip": "Core\\Models\\Appointment.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:29:52.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Price.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Price.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Price.cs",
+              "RelativeToolTip": "Core\\Models\\Price.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:29:40.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Patient.cs",
+              "RelativeToolTip": "Core\\Models\\Patient.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:29:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Models\\Doctor.cs",
+              "RelativeToolTip": "Core\\Models\\Doctor.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T14:29:15.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
