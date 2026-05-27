@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI.Lab04", "ConsoleU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalApp", "MedicalApp\MedicalApp.csproj", "{7F0A3042-264B-45B9-944C-F9E9866D819F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalSystem", "MedicalSystem\MedicalSystem.csproj", "{E1A3353D-7C56-4677-877A-797A7C626154}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{7F0A3042-264B-45B9-944C-F9E9866D819F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F0A3042-264B-45B9-944C-F9E9866D819F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F0A3042-264B-45B9-944C-F9E9866D819F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A3353D-7C56-4677-877A-797A7C626154}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A3353D-7C56-4677-877A-797A7C626154}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A3353D-7C56-4677-877A-797A7C626154}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A3353D-7C56-4677-877A-797A7C626154}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

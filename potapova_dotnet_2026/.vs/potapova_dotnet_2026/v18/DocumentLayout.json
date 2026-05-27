@@ -3,40 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|solutionrelative:medicalapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|solutionrelative:medicalsystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|solutionrelative:medicalapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|solutionrelative:medicalsystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalapp\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|solutionrelative:medicalapp\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalsystem\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|solutionrelative:medicalsystem\\doctorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalapp\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|solutionrelative:medicalapp\\doctorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|solutionrelative:medicalapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7F0A3042-264B-45B9-944C-F9E9866D819F}|MedicalApp\\MedicalApp.csproj|solutionrelative:medicalapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C23CF18-B634-4874-A46B-73363518B0DB}|Core\\Core.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\core\\services\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C23CF18-B634-4874-A46B-73363518B0DB}|Core\\Core.csproj|solutionrelative:core\\services\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C23CF18-B634-4874-A46B-73363518B0DB}|Core\\Core.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\core\\services\\xmlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C23CF18-B634-4874-A46B-73363518B0DB}|Core\\Core.csproj|solutionrelative:core\\services\\xmlservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C23CF18-B634-4874-A46B-73363518B0DB}|Core\\Core.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\core\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C23CF18-B634-4874-A46B-73363518B0DB}|Core\\Core.csproj|solutionrelative:core\\services\\jsonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|c:\\users\\alina\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\medicalsystem\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A3353D-7C56-4677-877A-797A7C626154}|MedicalSystem\\MedicalSystem.csproj|solutionrelative:medicalsystem\\doctorwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,118 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "MedicalApp\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Form1.Designer.cs",
-              "RelativeToolTip": "MedicalApp\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MedicalSystem\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MedicalSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:39:32.758Z",
+              "WhenOpened": "2026-05-27T14:36:46.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DoctorForm.cs",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\DoctorForm.cs",
-              "RelativeDocumentMoniker": "MedicalApp\\DoctorForm.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\DoctorForm.cs",
-              "RelativeToolTip": "MedicalApp\\DoctorForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:38:47.775Z",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MedicalSystem\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\MainWindow.xaml",
+              "RelativeToolTip": "MedicalSystem\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-27T14:36:44.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DoctorForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\DoctorForm.cs",
-              "RelativeDocumentMoniker": "MedicalApp\\DoctorForm.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\DoctorForm.cs [Design]",
-              "RelativeToolTip": "MedicalApp\\DoctorForm.cs [Design]",
+              "Title": "DoctorWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\DoctorWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MedicalSystem\\DoctorWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\DoctorWindow.xaml.cs",
+              "RelativeToolTip": "MedicalSystem\\DoctorWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:38:43.484Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Program.cs",
-              "RelativeDocumentMoniker": "MedicalApp\\Program.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Program.cs",
-              "RelativeToolTip": "MedicalApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:38:37.082Z",
+              "WhenOpened": "2026-05-27T14:31:09.232Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ResourceManager.cs",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Services\\ResourceManager.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\ResourceManager.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Services\\ResourceManager.cs",
-              "RelativeToolTip": "Core\\Services\\ResourceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:12:31.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "XmlService.cs",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Services\\XmlService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\XmlService.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Services\\XmlService.cs",
-              "RelativeToolTip": "Core\\Services\\XmlService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:12:21.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "JsonService.cs",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Services\\JsonService.cs",
-              "RelativeDocumentMoniker": "Core\\Services\\JsonService.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\Core\\Services\\JsonService.cs",
-              "RelativeToolTip": "Core\\Services\\JsonService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:12:14.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Form1.cs",
-              "RelativeDocumentMoniker": "MedicalApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Form1.cs [Design]",
-              "RelativeToolTip": "MedicalApp\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T21:39:16.776Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Form1.cs",
-              "RelativeDocumentMoniker": "MedicalApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalApp\\Form1.cs",
-              "RelativeToolTip": "MedicalApp\\Form1.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAADwvwoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T15:07:46.545Z",
+              "DocumentIndex": 2,
+              "Title": "DoctorWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\DoctorWindow.xaml",
+              "RelativeDocumentMoniker": "MedicalSystem\\DoctorWindow.xaml",
+              "ToolTip": "C:\\Users\\alina\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\univer\\3 course\\2_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\dotnet\\dotnet-lab-university\\potapova_dotnet_2026\\MedicalSystem\\DoctorWindow.xaml",
+              "RelativeToolTip": "MedicalSystem\\DoctorWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-27T14:30:47.613Z",
               "EditorCaption": ""
             }
           ]
