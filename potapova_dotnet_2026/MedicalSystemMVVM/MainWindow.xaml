@@ -1,0 +1,87 @@
+﻿<Window x:Class="MedicalSystemMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Medical System MVVM"
+        Height="600"
+        Width="1000">
+
+    <Window.Resources>
+
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="LightBlue"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="220"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.Row="0"
+                Grid.ColumnSpan="2"
+                Background="DarkBlue">
+
+            <TextBlock Text="Medical System MVVM"
+                       Foreground="White"
+                       FontSize="28"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"/>
+        </Border>
+
+        <StackPanel Grid.Row="1"
+                    Grid.Column="0"
+                    Background="LightGray">
+
+            <Button Content="Додати"
+                    Command="{Binding AddDoctorCommand}"/>
+
+            <Button Content="Видалити"
+                    Command="{Binding DeleteDoctorCommand}"/>
+
+        </StackPanel>
+
+        <Grid Grid.Row="1"
+              Grid.Column="1"
+              Margin="10">
+
+            <DataGrid ItemsSource="{Binding Doctors}"
+                      SelectedItem="{Binding SelectedDoctor}"
+                      AutoGenerateColumns="False">
+
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="Ім'я"
+                                        Binding="{Binding Name}"/>
+
+                    <DataGridTextColumn Header="Спеціалізація"
+                                        Binding="{Binding Specialization}"/>
+
+                    <DataGridTextColumn Header="Досвід"
+                                        Binding="{Binding ExperienceYears}"/>
+
+                    <DataGridTextColumn Header="Рейтинг"
+                                        Binding="{Binding Rating}"/>
+
+                    <DataGridCheckBoxColumn Header="Доступний"
+                                            Binding="{Binding IsAvailable}"/>
+
+                </DataGrid.Columns>
+
+            </DataGrid>
+
+        </Grid>
+
+    </Grid>
+
+</Window>
